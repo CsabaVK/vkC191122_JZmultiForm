@@ -1,6 +1,6 @@
 ﻿namespace _11_22_MultiForm
 {
-    partial class Form1
+    partial class FrmMain
     {
         /// <summary>
         /// Required designer variable.

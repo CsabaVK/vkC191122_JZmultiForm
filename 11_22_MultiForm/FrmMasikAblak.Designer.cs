@@ -63,6 +63,7 @@
             this.Controls.Add(this.lb_masikform);
             this.Name = "FrmMasikAblak";
             this.Text = "FrmMasikAblak";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.FrmMasikAblak_FormClosed);
             this.ResumeLayout(false);
 
         }
